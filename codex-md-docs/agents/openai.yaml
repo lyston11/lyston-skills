@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Markdown Docs"
+  short_description: "Create well-placed Obsidian records and learning docs."
+  default_prompt: "Use $codex-md-docs to create or update a Markdown note in my Codex Obsidian space, choosing the right subject and writing depth. For learning documents, teach unfamiliar concepts at first use, walk one concrete input through intermediate states to its output before summarizing, and make the explanation understandable without opening the source code."
+
+policy:
+  allow_implicit_invocation: true

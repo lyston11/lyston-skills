@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teach Docs"
+  short_description: "Write deep, step-by-step teaching docs"
+  default_prompt: "Use $teach-docs to turn this topic into a detailed, step-by-step learning document."

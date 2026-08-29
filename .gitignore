@@ -1,0 +1,9 @@
+# Ignore local and generated files
+.DS_Store
+*.pyc
+__pycache__/
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
